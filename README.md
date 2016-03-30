@@ -1,2 +1,2 @@
-# intermidiate csharp linear regression
+# intermediate csharp linear regression
 archived school project
