@@ -1,2 +1,2 @@
-# advanced_csharp-linear-regression
+# intermidiate csharp linear regression
 archived school project
